@@ -1,0 +1,9 @@
+* Variables - use to store / storage location
+
+* Strings - blocks of text / word / sequence of characters or symbols
+
+
+* Functions - lets you group statements
+ (arguments - function with parameters, `return` - way for data to show)
+	* `if` statements - decision making statements 
+	* Boolean values (`true`, `false`) - 2 possible values / outcome 
